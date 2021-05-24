@@ -1,0 +1,17 @@
+body{
+    background-color: #eceff1;
+}
+
+#form-pergunta{
+    margin-top: 5vh;
+}
+
+.title-navbar {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.just-center {
+    justify-content: center;
+}
